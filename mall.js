@@ -1,4 +1,4 @@
-function Mall(){
-    return <b>코엑스몰 점</b>;
+function Mall() {
+    return <b className ='aqua'>코엑스몰 점</b>;
 }
 export default Mall;
